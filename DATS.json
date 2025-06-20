@@ -1,0 +1,107 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.15700527",
+        "identifierSource": "DOI"
+    },
+    "title": "(Dataset) Leveraging Large Language Models for Interactive Exploration of MRI Research Reproducibility: A Self-Evolving Review",
+    "creators": [
+        {
+            "name": "Agah Karakuzu"
+        },
+        {
+            "name": "Mathieu Boudreau"
+        },
+        {
+            "name": "Nikola Stikov"
+        }
+    ],
+    "description": "<h2>About</h2>\n\n<p>Dataset provided for NeuroLibre preprint.</p>\n\n<p>\u2764\ufe0f Living preprint: <a href=\"https://preprint.neurolibre.org/10.55458/neurolibre.00021\">https://preprint.neurolibre.org/10.55458/neurolibre.00021</a></p>\n\n<p>Author repo: <a href=\"https://github.com/agahkarakuzu/mriscope\">https://github.com/agahkarakuzu/mriscope</a><br>\nNeuroLibre fork: <a href=\"https://github.com/roboneurolibre/mriscope\">https://github.com/roboneurolibre/mriscope</a></p>\n\n<p></p><p>For details, please visit the corresponding <a href=\"https://github.com/neurolibre/neurolibre-reviews/issues/21\">NeuroLibre technical screening.</a></p><br>\n\n<p><strong><a href=\"https://neurolibre.org\" target=\"NeuroLibre\">https://neurolibre.org</a></strong></p><p></p>\n\n<p>\u2709\ufe0f <a href=\"mailto:info@neurolibre.org\">info@neurolibre.org</a></p>",
+    "version": "None",
+    "licenses": [
+        {
+            "name": "cc-zero"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "neurolibre"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                "ZIP"
+            ],
+            "size": 14.5,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/records/15700528",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "Canadian"
+                }
+            ]
+        },
+        {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": "unknown"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        }
+    ],
+    "dates": [
+        {
+            "date": "2025-06-19 21:41:53",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2025-06-19 21:41:54",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "types": [
+        {
+            "information": {
+                "value": "unknown"
+            }
+        }
+    ]
+}
